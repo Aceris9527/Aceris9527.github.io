@@ -12,7 +12,7 @@ logo: /images/logo.svg
 
 # links
 links:
-  Github: https://github.com/Aceris-9527
+  Github: https://github.com/Aceris9527
   #ZhiHu:
   #Twitter:
   #Weibo:
@@ -42,10 +42,10 @@ mermaid:
 # giscus
 giscus:
   enable: true
-  repo: Aceris-9527/blog
-  repo_id: R_kgDOSCTXeg
+  repo: Aceris9527/Aceris9527.github.io
+  repo_id: R_kgDOSCad-Q
   category: Announcements
-  category_id: DIC_kwDOSCTXes4C60wn
+  category_id: DIC_kwDOSCad-c4C60-6
   mapping: pathname
 
 # maple
