@@ -103,3 +103,10 @@ theme: maple
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ""
+
+# RSS
+feed:
+  enable: true
+  type: rss2
+  path: rss2.xml
+  limit: 20
